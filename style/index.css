@@ -1,0 +1,18 @@
+#navbar>div{
+    display: inline-block;
+    margin-left: 80px;
+}
+#navbar{
+    height: 200px;
+    width: auto;
+    background-color: black;
+    color: white;
+}
+#meal>img{
+    margin-top: 100px;
+    width: 300px;
+    height: 400px;
+}
+#addIncart{
+    background-color: cadetblue;
+}
